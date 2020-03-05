@@ -1,0 +1,10 @@
+{
+  "name": "scouttrek-apollo-test-api",
+  "version": "1.0.0",
+  "description": "Master QGL API Basics",
+  "main": "index.js",
+  "repository": "git@github.com:TheEarlyNerd/apollo-test-server.git",
+  "author": "Kaleb Davenport",
+  "license": "MIT",
+  "private": true
+}
